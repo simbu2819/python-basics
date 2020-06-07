@@ -1,0 +1,14 @@
+<students_info>
+	<info>This is simple and sample Students details </info>
+	<data>
+		<student>
+			<name> Sai </name>
+			<branch> CSE </branch>
+			</student>
+
+		<student>
+			<name> Ram </name>
+			<branch> IT </branch>
+			</student>
+	</data>
+</students_info>

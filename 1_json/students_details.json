@@ -1,0 +1,18 @@
+{
+"students":[
+	{
+		"name":"sai",
+		"branch":"IT",
+		"grade":"A",
+		"id":1,
+		"status":true
+	},
+	{
+		"name":"Jai",
+		"branch":"IT",
+		"grade":"B",
+		"id":2,
+		"status":true
+	}
+	]
+}

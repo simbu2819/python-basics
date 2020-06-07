@@ -1,0 +1,16 @@
+<students_info>
+	<info>This is simple and sample Students details </info>
+	<data>
+		<student active="True">
+			<name> Sai </name>
+			<branch> CSE </branch>
+			<id> 1 </id>
+		</student>
+
+		<student active="False">
+			<name> Ram </name>
+			<branch> IT </branch>
+			<id> 2 </id>
+		</student>
+	</data>
+</students_info>
